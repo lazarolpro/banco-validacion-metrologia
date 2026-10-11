@@ -1,0 +1,10 @@
+{
+  "device": "TRANSMISOR-P-01",
+  "unit_under_test": "presion",
+  "k_factor": 2,
+  "parameters": [
+    { "name": "presion_0bar", "nominal": 0.0, "tolerance": 0.05, "unit": "bar", "samples": 10 },
+    { "name": "presion_5bar", "nominal": 5.0, "tolerance": 0.10, "unit": "bar", "samples": 10 },
+    { "name": "presion_10bar", "nominal": 10.0, "tolerance": 0.15, "unit": "bar", "samples": 10 }
+  ]
+}
