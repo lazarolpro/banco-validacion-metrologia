@@ -22,8 +22,17 @@ decisión de aceptar o rechazar un instrumento no es defendible.
 - Calcula error medio, repetibilidad e **incertidumbre expandida** (k = 2).
 - Emite un veredicto de conformidad por punto y una plantilla de certificado.
 
+## Demo visual
+
+![Conformidad y error frente a la tolerancia](assets/metrologia_demo.gif)
+
+La animación verifica cada punto contra su tolerancia e incertidumbre. Video
+completo: [`assets/metrologia_demo.mp4`](assets/metrologia_demo.mp4).
+
 ## Evidencia que produce
 
+- `assets/metrologia_demo.mp4`, `metrologia_demo.gif`, `metrologia_demo_poster.png` —
+  demo visual animado (con miniatura).
 - [`assets/muestra_validacion.pdf`](assets/muestra_validacion.pdf) — muestra
   resumida del informe de validación (con marca de agua).
 - [`specs/dut_specs.json`](specs/dut_specs.json) — especificación del equipo bajo
