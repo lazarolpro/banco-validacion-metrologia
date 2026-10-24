@@ -1,7 +1,7 @@
 # Capa 5 — Validación, QA y metrología
 
 [![CI](https://github.com/lazarolpro/banco-validacion-metrologia/actions/workflows/ci.yml/badge.svg)](https://github.com/lazarolpro/banco-validacion-metrologia/actions/workflows/ci.yml)
-[`lazarolpro/banco-validacion-metrologia`](https://github.com/lazarolpro/banco-validacion-metrologia) · parte del [portafolio de 6 capacidades](https://github.com/lazarolpro/portafolio)
+[`lazarolpro/banco-validacion-metrologia`](https://github.com/lazarolpro/banco-validacion-metrologia) · parte del [portafolio de 9 capacidades](https://github.com/lazarolpro/portafolio)
 
 **Capacidad demostrada:** validar un equipo contra su especificación con
 criterio metrológico: error, repetibilidad e incertidumbre expandida.
@@ -41,3 +41,6 @@ Python 3 (biblioteca estándar). Sin dependencias externas.
 
 Cubre **validación, QA y metrología**: la diferencia entre "parece funcionar" y
 "está demostrado dentro de tolerancia con incertidumbre declarada".
+
+**En mantenimiento:** verificar que un instrumento mide bien antes de confiar en
+su lectura.

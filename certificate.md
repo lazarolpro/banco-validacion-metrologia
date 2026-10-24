@@ -2,7 +2,7 @@
 
 **Equipo:** TRANSMISOR-P-01
 
-**Fecha:** 2026-10-11
+**Fecha:** 2026-10-24
 
 | Punto | Nominal | Valor medido | Incertidumbre (k=2) | Veredicto |
 | --- | --- | --- | --- | --- |
